@@ -50,7 +50,7 @@ const location = useLocation();
         
         {/* Logo */}
         <NavLink to="/" className="text-2xl font-bold text-blue-600">
-          MYBuilding  ITALIYA TIRTH
+          MYBuilding  
         </NavLink>
 
         {/* Menu */}
